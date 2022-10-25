@@ -2,7 +2,7 @@
   {
     "sousId": 0,
     "tokenName": "DIGICHAIN",
-    "image": "DIGICHAIN.svg",
+    "image": "DIGICHAIN.png",
     "stakingToken": {
       "symbol": "DIGICHAIN",
       "address": {
@@ -20,7 +20,7 @@
       "address": {
         "1": "",
         "40": "",
-        "56": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+        "56": "0x4732A86106064577933552FCea993D30BEC950a5",
         "97": "",
         "137": "0x5d47baba0d66083c52009271faf3f50dcc01023c"
       },
