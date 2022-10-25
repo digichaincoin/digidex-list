@@ -25,7 +25,7 @@
         "137": "0x5d47baba0d66083c52009271faf3f50dcc01023c"
       },
       "decimals": 9,
-      "active": true
+      "active": false
     },
     "contractAddress": {
       "56": "0x2c8370B1DDC43062e9027F0F369A18e1fF9Daf94",
@@ -38,7 +38,7 @@
     "tokenPerBlock": "2.5",
     "sortOrder": 1,
     "isFinished": false,
-    "tokenDecimals": 18
+    "tokenDecimals": 9
   },
   {
     "sousId": 21,
@@ -76,7 +76,7 @@
     "projectLink": "https://digidex.finance/",
     "twitter": "https://twitter.com/digichaincoin",
     "harvest": true,
-    "tokenPerBlock": "5.8",
+    "tokenPerBlock": "16.8",
     "sortOrder": 1,
     "isFinished": false,
     "tokenDecimals": 9
