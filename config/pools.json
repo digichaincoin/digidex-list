@@ -41,7 +41,7 @@
     "tokenDecimals": 9
   },
   {
-    "sousId": 21,
+    "sousId": 2,
     "tokenName": "DIGICHAIN",
     "image": "DIGICHAIN.png",
     "stakingToken": {
@@ -76,7 +76,7 @@
     "projectLink": "https://digidex.finance/",
     "twitter": "https://twitter.com/digichaincoin",
     "harvest": true,
-    "tokenPerBlock": "16.8",
+    "tokenPerBlock": "0.8",
     "sortOrder": 1,
     "isFinished": false,
     "tokenDecimals": 9
