@@ -36,8 +36,8 @@
     "twitter": "https://twitter.com/digichaincoin",
     "harvest": false,
     "tokenPerBlock": "2.5",
-    "sortOrder": 1,
-    "isFinished": false,
+    "sortOrder": 6,
+    "isFinished": true,
     "tokenDecimals": 9
   },
   {
@@ -76,7 +76,7 @@
     "projectLink": "https://digidex.finance/",
     "twitter": "https://twitter.com/digichaincoin",
     "harvest": true,
-    "tokenPerBlock": "0.8",
+    "tokenPerBlock": "1.5",
     "sortOrder": 1,
     "isFinished": false,
     "tokenDecimals": 9
