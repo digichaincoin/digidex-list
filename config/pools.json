@@ -13,7 +13,7 @@
         "137": ""
       },
       "decimals": 9,
-      "active": true
+      "active": false
     },
     "rewardToken": {
       "symbol": "DIGICHAIN",
