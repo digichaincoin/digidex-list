@@ -1,5 +1,46 @@
 [
   {
+    "sousId": 0,
+    "tokenName": "DIGICHAIN",
+    "image": "DIGICHAIN.svg",
+    "stakingToken": {
+      "symbol": "DIGICHAIN",
+      "address": {
+        "1": "",
+        "40": "",
+        "56": "0x4732A86106064577933552FCea993D30BEC950a5",
+        "97": "",
+        "137": ""
+      },
+      "decimals": 9,
+      "active": true
+    },
+    "rewardToken": {
+      "symbol": "DIGICHAIN",
+      "address": {
+        "1": "",
+        "40": "",
+        "56": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+        "97": "",
+        "137": "0x5d47baba0d66083c52009271faf3f50dcc01023c"
+      },
+      "decimals": 9,
+      "active": true
+    },
+    "contractAddress": {
+      "56": "0x2c8370B1DDC43062e9027F0F369A18e1fF9Daf94",
+      "97": ""
+    },
+    "poolCategory": "Core",
+    "projectLink": "https://digidex.finance/",
+    "twitter": "https://twitter.com/digichaincoin",
+    "harvest": false,
+    "tokenPerBlock": "2.5",
+    "sortOrder": 1,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
     "sousId": 21,
     "tokenName": "DIGICHAIN",
     "image": "DIGICHAIN.png",
