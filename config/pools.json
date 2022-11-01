@@ -82,4 +82,46 @@
     "tokenDecimals": 9
   }
   
+    {
+    "sousId": 2,
+    "tokenName": "DIGICHAIN",
+    "image": "DIGICHAIN.png",
+    "stakingToken": {
+      "symbol": "DIGICHAIN",
+      "address": {
+        "1": "0x92df60c51c710a1b1c20e42d85e221f3a1bfc7f2",
+        "40": "0x667fd83e24ca1d935d36717d305d54fa0cac991c",
+        "56": "0x4732A86106064577933552FCea993D30BEC950a5",
+        "97": "0x4Fb99590cA95fc3255D9fA66a1cA46c43C34b09a",
+        "137": "0x5d47baba0d66083c52009271faf3f50dcc01023c"
+      },
+      "decimals": 9,
+      "active": true
+    },
+    "rewardToken": {
+      "symbol": "DIGICHAIN",
+      "address": {
+        "1": "0x92df60c51c710a1b1c20e42d85e221f3a1bfc7f2",
+        "40": "0x667fd83e24ca1d935d36717d305d54fa0cac991c",
+        "56": "0x4732A86106064577933552FCea993D30BEC950a5",
+        "97": "0x4Fb99590cA95fc3255D9fA66a1cA46c43C34b09a",
+        "137": "0x5d47baba0d66083c52009271faf3f50dcc01023c"
+      },
+      "decimals": 9,
+      "active": true
+    },
+    "contractAddress": {
+      "56": "0x74e2fed8e7f628d434c775b8ce0aa88a09218b74",
+      "97": "0x58d11569986A3f44b80f81AB7657d34C96E60418"
+    },
+    "poolCategory": "BINANCE",
+    "projectLink": "https://digidex.finance/",
+    "twitter": "https://twitter.com/digichaincoin",
+    "harvest": false,
+    "tokenPerBlock": "1.5",
+    "sortOrder": 1,
+    "isFinished": true,
+    "tokenDecimals": 9
+  }
+  
 ]
